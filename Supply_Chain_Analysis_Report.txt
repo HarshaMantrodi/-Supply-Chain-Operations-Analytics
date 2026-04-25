@@ -1,0 +1,4 @@
+--- SUPPLY CHAIN FINAL REPORT ---
+Average Defect Rate: 2.28%
+Most Efficient Carrier: Carrier C
+Top Revenue Location: Mumbai

@@ -1,0 +1,6 @@
+--- EXECUTIVE OPERATIONS REPORT ---
+Average Lead Time: 15.96 Days
+Global Fulfillment Rate: 4840.00%
+Critical Bottleneck: skincare
+High-Risk Supplier: Supplier 5
+Optimization Strategy: Consolidate shipping with low-defect suppliers.
